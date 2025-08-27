@@ -57,18 +57,21 @@ cat < file2
 cmp file1 file2
 ### OUTPUT
 
-<img width="407" height="85" alt="image" src="https://github.com/user-attachments/assets/3010859e-eb54-4afc-b93f-058c13c81f6b" />
+ <img width="368" height="68" alt="image" src="https://github.com/user-attachments/assets/f3ae9768-dec5-4e28-947e-3fcfb7aed379" />
+
 
   comm file1 file2
  ### OUTPUT
 
-<img width="498" height="310" alt="image" src="https://github.com/user-attachments/assets/4110bbb8-bd17-484e-911d-7536d1cf16b2" />
+<img width="315" height="200" alt="image" src="https://github.com/user-attachments/assets/bba2d2b3-6234-44b9-9888-f6a2dfd55fe1" />
+
 
 
  diff file1 file2
 ### OUTPUT
 
-<img width="459" height="311" alt="image" src="https://github.com/user-attachments/assets/e9410780-fa56-4296-8473-810619f5a4df" />
+<img width="312" height="269" alt="image" src="https://github.com/user-attachments/assets/c07f5e2e-b1bd-4db6-9a31-4627b17f00bb" />
+
 
 
 
@@ -92,19 +95,22 @@ This is my world
  cut -c1-3 file11
 ### OUTPUT
 
-<img width="388" height="107" alt="image" src="https://github.com/user-attachments/assets/1a510fa8-3eed-4830-afde-1859f7635915" />
+<img width="373" height="78" alt="image" src="https://github.com/user-attachments/assets/e19583d4-9a66-4433-a7d8-8765ba1b7d4e" />
+
 
 
  cut -d "|" -f 1 file22
 ### OUTPUT
 
-<img width="398" height="140" alt="image" src="https://github.com/user-attachments/assets/d789a904-539b-4ac8-a2f3-b7202fb3a890" />
+<img width="479" height="97" alt="image" src="https://github.com/user-attachments/assets/6861e7e3-6930-4143-867b-05c605da5b24" />
+
 
 
  cut -d "|" -f 2 file22
 ### OUTPUT
 
-<img width="343" height="151" alt="image" src="https://github.com/user-attachments/assets/2786efeb-5221-47f4-b380-8460b3752442" />
+<img width="348" height="97" alt="image" src="https://github.com/user-attachments/assets/191e3ae7-ac14-40e3-beac-c931ad881d97" />
+
 
 
  cat < newfile 
@@ -114,7 +120,8 @@ hello world
 ^d
 ````
  cat > newfile 
-<img width="366" height="207" alt="image" src="https://github.com/user-attachments/assets/d4a27228-58d7-4e75-a037-8cf89f0ec370" />
+<img width="349" height="185" alt="image" src="https://github.com/user-attachments/assets/5e1d1870-4820-4482-a8c1-38770c6674ec" />
+
 
  grep Hello newfile 
 ### OUTPUT
