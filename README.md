@@ -457,7 +457,8 @@ cat urllist.txt | tr -d ' '
  tar -cvf backup.tar *
 ### OUTPUT
 
-<img width="320" height="296" alt="image" src="https://github.com/user-attachments/assets/e04154e2-44c3-4c13-a0cb-c55e10b15960" />
+<img width="497" height="569" alt="image" src="https://github.com/user-attachments/assets/1eb69450-e1c3-439b-861a-d5cf388efa03" />
+
 
 
 mkdir backupdir
@@ -470,13 +471,15 @@ tar -tvf backup.tar
 ### OUTPUT
 
 
-<img width="638" height="432" alt="image" src="https://github.com/user-attachments/assets/4e15ab2e-30b8-427e-b690-f22d96dc2c11" />
+<img width="822" height="582" alt="image" src="https://github.com/user-attachments/assets/e392961d-bbaf-4e2a-8320-94e7db5b07d2" />
+
 
 
 tar -xvf backup.tar
 ### OUTPUT
 
-<img width="351" height="274" alt="image" src="https://github.com/user-attachments/assets/6c5a8233-7dbb-4c84-a684-c9316f79ca42" />
+
+<img width="524" height="582" alt="image" src="https://github.com/user-attachments/assets/e89785d1-1052-41fd-a5b3-8832e7026994" />
 
 
  
@@ -503,6 +506,7 @@ stop
 cat herecheck.txt
 ### OUTPUT
 
+<img width="416" height="278" alt="image" src="https://github.com/user-attachments/assets/460fdc7e-3480-4c32-8d87-ab3df5a9cce6" />
 
 
 cat < scriptest.sh 
@@ -548,13 +552,14 @@ chmod 777 scriptest.sh
 ls file1
 ### OUTPUT
 
-<img width="258" height="92" alt="image" src="https://github.com/user-attachments/assets/fa370977-a6a5-4e81-91b6-e7e4e1203724" />
+<img width="300" height="85" alt="image" src="https://github.com/user-attachments/assets/91e23601-ade9-4341-8682-7c95e09ff317" />
+
 
 
 echo $?
 ### OUTPUT 
 
-<img width="323" height="93" alt="image" src="https://github.com/user-attachments/assets/3779e140-8c05-4957-9602-0ab3ee588bef" />
+<img width="341" height="80" alt="image" src="https://github.com/user-attachments/assets/c0517b6a-890e-4c0a-bc13-ff8d6ede8e2e" />
 
  
 # mis-using string comparisons
@@ -587,7 +592,8 @@ fi
 ```
 ### OUTPUT
 
-<img width="425" height="290" alt="image" src="https://github.com/user-attachments/assets/bdf97815-4cdb-46a9-939f-b3b2616a48ab" />
+
+<img width="412" height="281" alt="image" src="https://github.com/user-attachments/assets/c66450fb-db6f-40da-9ee1-c8828e8ab7da" />
 
 
 chmod 755 strcomp.sh
@@ -595,7 +601,8 @@ chmod 755 strcomp.sh
 ./strcomp.sh 
 ### OUTPUT
 
-<img width="393" height="101" alt="image" src="https://github.com/user-attachments/assets/870c31d3-7dfc-4ec1-b51a-93650b939c1d" />
+
+<img width="280" height="122" alt="image" src="https://github.com/user-attachments/assets/e8e2610d-2d3f-421d-a214-acdc6a4d7871" />
 
 
 # check file ownership
@@ -624,7 +631,8 @@ fi
 ./psswdperm.sh
 ### OUTPUT
 
-<img width="637" height="175" alt="image" src="https://github.com/user-attachments/assets/015ff9de-cc7d-43e9-80f6-ca7edcce51d7" />
+<img width="647" height="278" alt="image" src="https://github.com/user-attachments/assets/3252d509-5b4d-4c5b-a401-4c60d6d44a68" />
+
 
 # check if with file location
 cat>ifnested.sh 
@@ -672,7 +680,8 @@ fi
 ./ifnested.sh 
 ### OUTPUT
 
-<img width="566" height="236" alt="image" src="https://github.com/user-attachments/assets/a36e522e-ea41-4da2-a2c1-b6d2f5881c2e" />
+<img width="443" height="82" alt="image" src="https://github.com/user-attachments/assets/380fbc4c-ae52-44a6-8528-758229b9044f" />
+
 
 
 
