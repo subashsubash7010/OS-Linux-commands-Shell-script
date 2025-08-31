@@ -504,9 +504,9 @@ stop
 ```
 
 cat herecheck.txt
-### OUTPUT
+### OUTPUTcd 
 
-<img width="416" height="278" alt="image" src="https://github.com/user-attachments/assets/460fdc7e-3480-4c32-8d87-ab3df5a9cce6" />
+<img width="306" height="128" alt="image" src="https://github.com/user-attachments/assets/736612bd-6d55-460e-904a-0a2d7a688689" />
 
 
 cat < scriptest.sh 
@@ -593,16 +593,16 @@ fi
 ### OUTPUT
 
 
-<img width="412" height="281" alt="image" src="https://github.com/user-attachments/assets/c66450fb-db6f-40da-9ee1-c8828e8ab7da" />
-
+<img width="486" height="273" alt="image" src="https://github.com/user-attachments/assets/c59e3e5a-81b6-4f3f-a808-9b4f8d181dff" />
 
 chmod 755 strcomp.sh
  
 ./strcomp.sh 
 ### OUTPUT
 
+<img width="390" height="85" alt="image" src="https://github.com/user-attachments/assets/f33e1872-8121-4d29-8cf2-e7414a3d0508" />
 
-<img width="280" height="122" alt="image" src="https://github.com/user-attachments/assets/e8e2610d-2d3f-421d-a214-acdc6a4d7871" />
+
 
 
 # check file ownership
@@ -631,7 +631,7 @@ fi
 ./psswdperm.sh
 ### OUTPUT
 
-<img width="647" height="278" alt="image" src="https://github.com/user-attachments/assets/3252d509-5b4d-4c5b-a401-4c60d6d44a68" />
+<img width="510" height="82" alt="image" src="https://github.com/user-attachments/assets/8d254510-5331-474c-a795-686e21684658" />
 
 
 # check if with file location
@@ -680,7 +680,8 @@ fi
 ./ifnested.sh 
 ### OUTPUT
 
-<img width="443" height="82" alt="image" src="https://github.com/user-attachments/assets/380fbc4c-ae52-44a6-8528-758229b9044f" />
+
+<img width="418" height="85" alt="image" src="https://github.com/user-attachments/assets/6f90ae7b-1dff-4fee-899c-f90ccd4ff8bb" />
 
 
 
@@ -728,6 +729,7 @@ $ ./iftest.sh
 ##OUTPUT
 
 
+<img width="474" height="109" alt="image" src="https://github.com/user-attachments/assets/b9d35d3b-beb6-42bb-ae15-bf260a2160ec" />
 
 
 # check if a file
